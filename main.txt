@@ -1,7 +1,7 @@
 #Codex Project Online Update Multi Manager
 # UURL = Update URL
 
-CPUData001 = "5.0 Beta"
+CPUData001 = "0.5 Beta"
 CPUData002 = "1.5"
 
 CPUData001_UURL = "https://sourceforge.net/projects/codex-terminal/"
