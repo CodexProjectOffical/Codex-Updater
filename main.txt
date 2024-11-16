@@ -7,6 +7,8 @@ Data002 = "Ver 1.5"
 Data001_UURL = "https://sourceforge.net/projects/codex-terminal/"
 Data002_UURL = "https://sourceforge.net/projects/codex-script-viewer/"
 
+print("Test")
+
 
 
 
