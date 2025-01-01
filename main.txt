@@ -2,7 +2,7 @@
 # UURL = Update URL
 
 CPUData001 = "1.0"
-CPUData002 = "2.5"
+CPUData002 = "2.6"
 
 CPUData001_UURL = "https://sourceforge.net/projects/codex-terminal/"
 CPUData002_UURL = "https://sourceforge.net/projects/codex-script-viewer/"
